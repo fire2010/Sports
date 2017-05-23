@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<temp-directories>
+  <temp-directory age="0" key="fire-service-cms" path="tmp1" recycle="false"/>
+  <temp-directory age="0" key="fire-service-search" path="tmp4" recycle="false"/>
+  <temp-directory age="0" key="fire-portal" path="tmp5" recycle="false"/>
+  <temp-directory age="0" key="fire-console" path="tmp0" recycle="false"/>
+  <temp-directory age="0" key="fire-service-order-cart-buyer" path="tmp2" recycle="false"/>
+  <temp-directory age="0" key="fire-login" path="tmp6" recycle="false"/>
+  <temp-directory age="0" key="fire-service-product" path="tmp3" recycle="false"/>
+</temp-directories>

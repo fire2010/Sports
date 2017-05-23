@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-console-config" deployDir="wtpwebapps" hostname="localhost" id="fire-console" name="fire-console" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="fire-console::org.eclipse.jst.jee.server:fire-console::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-service-cms-config" deployDir="wtpwebapps" hostname="localhost" id="fire-service-cms" name="fire-service-cms" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="fire-service-cms::org.eclipse.jst.jee.server:fire-service-cms::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-service-order-cart-buyer-config" deployDir="wtpwebapps" hostname="localhost" id="fire-service-order-cart-buyer" name="fire-service-order-cart-buyer" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="12">
+    <list key="modules" value0="fire-service-order-cart-buyer::org.eclipse.jst.jee.server:fire-service-order-cart-buyer::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-service-product-config" deployDir="wtpwebapps" hostname="localhost" id="fire-service-product" name="fire-service-product" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="fire-service-product::org.eclipse.jst.jee.server:fire-service-product::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-service-search-config" deployDir="wtpwebapps" hostname="localhost" id="fire-service-search" name="fire-service-search" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="fire-service-search::org.eclipse.jst.jee.server:fire-service-search::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-portal-config" deployDir="wtpwebapps" hostname="localhost" id="fire-portal" name="fire-portal" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="fire-portal::org.eclipse.jst.jee.server:fire-portal::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/fire-login-config" deployDir="wtpwebapps" hostname="localhost" id="fire-login" name="fire-login" runtime-id="fire-console" server-type="org.eclipse.jst.server.tomcat.70" server-type-id="org.eclipse.jst.server.tomcat.70" start-timeout="300" stop-timeout="300" testEnvironment="true" timestamp="4">
+    <list key="modules" value0="fire-login::org.eclipse.jst.jee.server:fire-login::jst.web::2.5"/>
+  </server>
+</servers>

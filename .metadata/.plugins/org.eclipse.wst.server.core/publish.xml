@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publish-info>
+  <server id="fire-service-cms" path="publish1.dat"/>
+  <server id="fire-service-search" path="publish1.dat"/>
+  <server id="fire-portal" path="publish1.dat"/>
+  <server id="fire-console" path="publish0.dat"/>
+  <server id="fire-service-order-cart-buyer" path="publish1.dat"/>
+  <server id="fire-login" path="publish1.dat"/>
+  <server id="fire-service-product" path="publish1.dat"/>
+</publish-info>

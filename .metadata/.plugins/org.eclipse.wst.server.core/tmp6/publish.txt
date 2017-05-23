@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue May 23 23:55:08 CST 2017
+org.eclipse.jst.j2ee.server\:fire-pojo=WEB-INF/lib/fire-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:fire-interface=WEB-INF/lib/fire-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:fire-common=WEB-INF/lib/fire-common-0.0.1-SNAPSHOT.jar
